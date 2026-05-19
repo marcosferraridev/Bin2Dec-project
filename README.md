@@ -4,7 +4,7 @@ Projeto simples desenvolvido em C# com o objetivo de praticar lógica de program
 
 O projeto foi baseado no desafio proposto pelo repositório App Ideas:
 
-- :contentReference[oaicite:0]{index=0}
+https://github.com/florinpop17/app-ideas
 
 ---
 
